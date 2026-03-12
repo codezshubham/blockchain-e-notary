@@ -1,0 +1,11 @@
+node_modules
+.next
+.env
+backend/node_modules
+frontend/node_modules
+backend/artifacts
+backend/cache
+backend/uploads
+backend/dist
+backend/types
+backend/.env
